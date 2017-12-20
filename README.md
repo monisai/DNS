@@ -1,1 +1,2 @@
 #This is a school project to implement a DNS client - server environment. This project is now in the initial stages where there is an established socket connection between DNS server and client and the server can be controlled remotely. Now we are trying to work on how to redirect any client to this server for research purposes
+#This is not an individual project, this is an combined effort of a team
